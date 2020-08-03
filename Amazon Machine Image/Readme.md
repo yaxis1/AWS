@@ -1,8 +1,7 @@
 > **AMAZON MACHINE IMAGE**
 
 Amazon machine images are tailored according to work case and there are
-suite of images available to choose from starting from server use case
-to deep learning.
+suite of images starting from server-client use case to deep learning.
 
 **Launching an AMI:**
 
