@@ -1,6 +1,6 @@
 > **AMAZON MACHINE IMAGE**
 
-Amazon machine images are tailored according to work case and there is a
+Amazon machine images are tailored according to work case and there are
 suite of images available to choose from starting from server use case
 to deep learning.
 
